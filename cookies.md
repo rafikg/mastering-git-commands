@@ -16,7 +16,7 @@
 
 ½ tsp baking powder
 
-1 tsp salt
+5 tsp salt
 
 2 cups (340g) semi-sweet chocolate chips
 ## Instructions
