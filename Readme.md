@@ -73,6 +73,26 @@ Absolutely! Here’s a **cleaner, clearer rewrite** of your Git command definiti
 
 * **Uploads commits from your local repository to a remote repository.**
 
+### 18. **git clone**
+* **Copies an entire remote repository to your local machine.**
+
+### 19. **git remote**
+*  **Lists, adds, or removes remote repository connections.**
+
+### 20. **git switch**
+*  **A newer command to switch branches (alternative to `git checkout`).**
+
+### 21. **.gitignore**
+*  **A file specifying intentionally untracked files to ignore.**
+
+### 22. **git restore**
+*  **Restores working directory files to their state at a previous commit or stage (alternative to parts of `git checkout`).**
+
+### 23. **git tag**
+*  **Creates, lists, or deletes tags (named points in history often used for releases).**
+
+### 24. **.gitignore**
+*  **A file specifying intentionally untracked files to ignore.**
 ---
 
 ## Key Concepts
@@ -88,29 +108,3 @@ Absolutely! Here’s a **cleaner, clearer rewrite** of your Git command definiti
 
 * **Remote repository:**
   A version of your project hosted on a server, like GitHub or GitLab.
-
----
-
-## What Else to Include?
-
-Here are a few **useful Git commands and concepts** you might consider adding:
-
-* **git clone**
-  *Copies an entire remote repository to your local machine.*
-
-* **git remote**
-  *Lists, adds, or removes remote repository connections.*
-
-* **git switch**
-  *A newer command to switch branches (alternative to `git checkout`).*
-
-* **git restore**
-  *Restores working directory files to their state at a previous commit or stage (alternative to parts of `git checkout`).*
-
-* **git tag**
-  *Creates, lists, or deletes tags (named points in history often used for releases).*
-
-* **.gitignore**
-  *A file specifying intentionally untracked files to ignore.*
-
-
